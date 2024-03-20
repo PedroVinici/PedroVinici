@@ -4,7 +4,7 @@
 
 ### Hello there! 👋
 
-I'm Pedro Vinicius, a computer scientist student enthusiast passionate about technology. Welcome to my GitHub profile!
+I'm Pedro Vinicius, a computer scientist student passionate about technology. Welcome to my GitHub profile!
 
 - 🌱 Currently, I'm on my second year of my undergraduate studies at Universidade Federal de Campina Grande.
 - 📫 How to reach me: pedro.braz@ccc.ufcg.edu.br.
