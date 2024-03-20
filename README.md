@@ -19,10 +19,10 @@ I'm Pedro Vinicius, a computer scientist student passionate about technology. We
 </p>
 
 ### GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your_username&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PedroVinici&show_icons=true)
 
 ### Most Used Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your_username&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PedroVinici&layout=compact)
 
 ### Let's Connect
 <p align="center">
